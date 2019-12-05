@@ -1,0 +1,14 @@
+{
+    "url": "http://localhost:4567",
+    "secret": "8cfe1f35-724a-44af-ade8-9ac223d74fbb",
+    "database": "mongo",
+    "mongo": {
+        "host": "ds251948.mlab.com",
+        "port": "51948",
+        "username": "heroku_12wntdbz",
+        "password": "ugf1hoeudkj6fugfkibn5ro49d",
+        "database": "heroku_12wntdbz",
+        "uri": ""
+    },
+    "port": "4567"
+}

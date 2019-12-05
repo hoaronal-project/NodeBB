@@ -5,9 +5,9 @@
     "mongo": {
         "host": "ds251948.mlab.com",
         "port": "51948",
-        "username": "heroku_12wntdbz",
-        "password": "ugf1hoeudkj6fugfkibn5ro49d",
-        "database": "heroku_12wntdbz",
+        "username": "heroku_ng8nfmnk",
+        "password": "2fn2k1jgeig04tt3vdocujufqj",
+        "database": "heroku_ng8nfmnk",
         "uri": ""
     },
     "port": "4567"
